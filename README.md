@@ -1,2 +1,2 @@
 # union-find
-union find implementation
+Dynamic connectivity w/ union find
